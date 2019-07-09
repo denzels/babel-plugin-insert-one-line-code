@@ -1,0 +1,15 @@
+{
+  "name": "babel-plugin-insert-one-line-code",
+  "version": "0.0.1",
+  "description": "insert one line code to start and end point of function. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/denzels/babel-plugin-insert-one-line-code.git"
+  },
+  "author": "denz",
+  "license": "ISC"
+}
